@@ -1,0 +1,68 @@
+{
+  "cpp": {
+    "name": "Canada Pension Plan (CPP)",
+    "region": "CA",
+    "anchor": "cpp",
+    "per_year": 12
+  },
+  "oas": {
+    "name": "Old Age Security (OAS)",
+    "region": "CA",
+    "anchor": "oas",
+    "per_year": 12
+  },
+  "ccb": {
+    "name": "Canada Child Benefit (CCB)",
+    "region": "CA",
+    "anchor": "Canada-child-benefit",
+    "per_year": 12
+  },
+  "cgeb": {
+    "name": "Canada Groceries and Essentials Benefit (CGEB)",
+    "region": "CA",
+    "anchor": "cgeb",
+    "per_year": 4
+  },
+  "gst": {
+    "name": "GST/HST credit (prior to July 2026)",
+    "region": "CA",
+    "anchor": "gst",
+    "per_year": 0
+  },
+  "cdb": {
+    "name": "Canada Disability Benefit",
+    "region": "CA",
+    "anchor": "cdb",
+    "per_year": 12
+  },
+  "vdp": {
+    "name": "Veteran disability pension",
+    "region": "CA",
+    "anchor": "vdp",
+    "per_year": 12
+  },
+  "nlds": {
+    "name": "Newfoundland and Labrador disability benefit",
+    "region": "NL",
+    "anchor": "nlds",
+    "per_year": 12
+  },
+  "acfb": {
+    "name": "Alberta Child and Family Benefit",
+    "region": "AB",
+    "anchor": "acfb",
+    "per_year": 4
+  },
+  "otb": {
+    "name": "Ontario Trillium Benefit",
+    "region": "ON",
+    "anchor": "otb",
+    "per_year": 12
+  },
+  "cwb": {
+    "name": "Advanced Canada workers benefit",
+    "region": "CA",
+    "anchor": "cwb",
+    "per_year": 3
+  }
+}

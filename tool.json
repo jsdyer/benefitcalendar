@@ -1,16 +1,23 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "benefitcalendar",
+  "title": "Canada Benefit Payment Dates",
+  "description": "Find published Canadian benefit payment dates and subscribe to calendars for the programs you follow.",
+  "category": "money",
+  "tags": [
+    "benefits",
+    "pension",
+    "payment dates",
+    "calendar",
+    "CPP",
+    "OAS"
+  ],
+  "icon": "calendar-days",
+  "url": "/benefitcalendar/",
+  "source": "https://github.com/jsdyer/benefitcalendar",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "detail": "Weekly checks of the Government of Canada benefits calendar retain published payment dates."
   }
 }
