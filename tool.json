@@ -18,6 +18,7 @@
   "access": "browser",
   "data_info": {
     "mode": "snapshot",
-    "detail": "Weekly checks of the Government of Canada benefits calendar retain published payment dates."
+    "detail": "Weekly checks of the Government of Canada benefits calendar retain published payment dates.",
+    "cadence": "Weekly"
   }
 }
